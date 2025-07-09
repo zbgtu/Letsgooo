@@ -1,0 +1,6 @@
+cd letsgooo
+git init
+git remote add origin https://github.com/zbgtu/Letsgooo.git
+git add .
+git commit -m "Fresh Next.js setup"
+git push -f origin main
