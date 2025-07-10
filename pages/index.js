@@ -1,8 +1,10 @@
+// pages/index.js
+
 export default function Home() {
   return (
     <main>
-      <h1>🚗 Welcome to Letsgooo!</h1>
-      <p>This is your first deployed Next.js project on Vercel.</p>
+      <h1>Welcome to Letsgooo!</h1>
+      <p>Choose a tool: Calculator, Inventory, or Plans</p>
     </main>
   );
 }
