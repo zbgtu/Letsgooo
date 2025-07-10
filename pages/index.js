@@ -6,3 +6,8 @@ export default function Home() {
     </main>
   );
 }
+/pages
+  ├── index.js              ← Already exists (your homepage)
+  ├── calculator.js         ✅ ← You create this
+  ├── inventory.js          ✅ ← You create this
+  └── dealer-connect.js     ✅ ← You create this
