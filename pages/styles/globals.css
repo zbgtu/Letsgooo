@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+}
+
+nav a:hover {
+  color: #0070f3;
+}
