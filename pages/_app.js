@@ -1,6 +1,6 @@
 // pages/_app.js
 import Link from 'next/link';
-import '../styles/globals.css'; // 
+import '@/styles/globals.css';
 
 export default function App({ Component, pageProps }) {
   return (
